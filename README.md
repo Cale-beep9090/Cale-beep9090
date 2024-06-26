@@ -1,6 +1,6 @@
 ### Olá! Me sou o Calebe Cardoso, mas pode me chamar de CaCa e esse é o meu git.✌️
 
-### Sou o tipo de pessoal aficionada em tecnologia, programação e de desenvolver meios de utilizar robôs para facilitar a vida de todas as pessoas por por meio deles.🤖
+### Sou o tipo de pessoal aficionada em tecnologia, programação e de desenvolver meios de utilizar robôs para facilitar a vida de todas as pessoas por meio deles.🤖
 
 ![Cale-beep9090 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cale-beep9090&show_icons=true&theme=radical)
 
